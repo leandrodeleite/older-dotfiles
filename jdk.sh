@@ -12,3 +12,9 @@ sudo \
 #   openjdk-8-jre
 #   for browsers/plugin
 
+#   default-jdk
+#   default-jre
+
+#   oracle-java8-installer
+#   (ppa:webupd8team/java)
+
