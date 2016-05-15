@@ -1,8 +1,7 @@
 set nocompatible   " vim over vi
 
-set nobackup
-set noswapfile
-" no swap, no backup
+set nobackup       " no swap 
+set noswapfile     " no backup
 
 set tabstop=2
 set softtabstop=0
