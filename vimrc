@@ -1,4 +1,4 @@
-
+set nocompatible   " vim over vi
 
 set nobackup
 set noswapfile
