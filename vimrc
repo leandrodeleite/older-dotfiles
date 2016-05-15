@@ -9,9 +9,8 @@ set shiftwidth=2
 set expandtab
 # tabs
 
-set ruler
-set number
-# ruler
+set ruler          " cursor position 
+set number         " line number
 
 set title
 
