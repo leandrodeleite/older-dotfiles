@@ -15,4 +15,5 @@ set number
 
 set title
 
+set mouse=a         " mouse enabled
 
