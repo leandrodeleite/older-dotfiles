@@ -14,3 +14,6 @@ set ruler
 set number
 # ruler
 
+set title
+
+
