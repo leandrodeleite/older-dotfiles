@@ -10,4 +10,7 @@ set shiftwidth=2
 set expandtab
 # tabs
 
+set ruler
+set number
+# ruler
 
